@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-### [Live Site](cryptocurrencies-a7679.web.app/)
+### [Live Site](cryptocurrencies-a7679.web.app)
 
 ![Cryptocurrencies Application](https://i.postimg.cc/KzBzKkrW/Screenshot-from-2023-02-08-15-55-59.png)
 
